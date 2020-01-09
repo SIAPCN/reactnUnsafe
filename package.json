@@ -1,7 +1,7 @@
 {
-  "name": "reactnforkfixunsafe",
+  "name": "reactn",
   "version": "2.2.5",
-  "author": "Umberto Ghio <umberto@ghio.io>",
+  "author": "Charles Stover <reactn@charlesstover.com>",
   "description": "React, but with built-in global state management.",
   "homepage": "https://github.com/CharlesStover/reactn#readme",
   "license": "MIT",
